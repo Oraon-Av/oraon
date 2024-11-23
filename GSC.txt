@@ -1,0 +1,23 @@
+1.Moveit-> Technologies=> rosc++, c,python3, robotics, pythonrust
+           Topics=>roboticsmotion planningtrajectory generationkinematics
+
+2.ML4cl-> Technologies=> python, c, c++, machine learning, data analysis,artificial intelligence
+          Topics=> machine learningscience and medicinealgorithmsphysicsastronomy
+
+3.libreCube-> Technologies=> python, micropython, zmq, mbedmongodb, restrest api
+              Topics=>spacecubesatmission controlCommunication ProtocolsautomationRover
+
+4.rtems-> Technologies=> c, python, embedded systems, waf, posix, bsd unix, c++, assembly
+          Topics=>real timeposixembedded systemskerneloperating systemmulticoreiotiot cpsreal-timeembeddedrtos
+
+5.openRobotics-> Technologies=> ros, gazebo, python, javascript, c, c++,ignition,Open-RMF
+                 Topics=>roboticssimulationmiddlewarefleet management
+
+6.JDErobot-> Technologies=> python, c, c++, ros, gazebo, opencv, tensorflow
+             Topics=>roboticscomputer visionteachingrobot simulatoreducationdeveloper toolsartificial intelligence
+
+7.Chips-Alliance-> Technologies=> fpga, chisel, risc-v, systemverilog, ASIC
+                   Topics=>socIP coresASIC designHDLchiplets
+
+8.Ardupilot-> Technologies=> python, ros, c++, embeddedrtos, linux, c, drones, robotics, lua, pixhawk
+              Topics=>roboticsdronesautopilotuavroversembedded systemsvisionreal-time osvisonreal-timeDroneautonomous vehicleUGVunmanned vehicle
